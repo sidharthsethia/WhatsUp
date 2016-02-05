@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="camera_choices">
+        <item>Take Photo</item>
+        <item>Take Video</item>
+        <item>Choose Photo</item>
+        <item>Choose Video</item>
+    </string-array>
+    <!-- From: file:/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="actionBarText">#ffffff</color>
+    <color name="apptheme_color">#186cf4</color>
+    <color name="defaultbutton">#a2a4a5</color>
+    <color name="hovered_color">#7a7b7c</color>
+    <color name="lightBlueBackground">#cbeaf4</color>
+    <color name="pressed_color">#7a7b7c</color>
+    <color name="swipe1">#0000CC</color>
+    <color name="swipe2">#0033CC</color>
+    <color name="swipe3">#0066CC</color>
+    <color name="swipe4">#0099FF</color>
+    <!-- From: file:/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="inbox_horizontal_margin">4dp</dimen>
+    <dimen name="inbox_vertical_margin">4dp</dimen>
+    <!-- From: file:/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Edit_friends_Label">Edit Friends</string>
+    <string name="Login_label">Login</string>
+    <string name="Signup_error_title">Oops!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">WhatsUp</string>
+    <string name="camera_label">Camera</string>
+    <string name="email_hint">Email Id</string>
+    <string name="error_message">We\'re sorry!!</string>
+    <string name="error_title">Oops!!</string>
+    <string name="external_storage_error">There was a problem accessing your device\'s external storage</string>
+    <string name="friends_empty_message">You are alone...Go get some friends!!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="inbox_empty_message">You have got no messages!!!</string>
+    <string name="login_error_message">Please enter a username and a password!!</string>
+    <string name="login_error_title">Oops!!</string>
+    <string name="logout_label">Log Out</string>
+    <string name="password_string">Password</string>
+    <string name="push_message">You have a new message from %s!</string>
+    <string name="send_button">"Send "</string>
+    <string name="signup_error_message">Please enter a username,password and an email address!!</string>
+    <string name="signup_text">Sign Up!</string>
+    <string name="title_activity_edit_friends">Edit Friends</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_section1">Inbox</string>
+    <string name="title_section2">Friends</string>
+    <string name="username_string">Username</string>
+    <!-- From: file:/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="ActionBar.Solid.Photochat" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:titleTextStyle">@style/Theme.Photochat.ActionBar.Text</item>
+        <item name="android:background">@drawable/ab_solid_photochat</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_photochat</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_photochat</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Photochat</item>
+    </style>
+    <style name="ActionBar.Transparent.Photochat" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_photochat</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Photochat</item>
+    </style>
+    <style name="ActionBarTabStyle.Photochat" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_photochat</item>
+    </style>
+    <style name="ActionButton.CloseMode.Photochat" parent="@android:style/Widget.Holo.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_photochat</item>
+    </style>
+    <style name="AppTheme" parent="@style/_AppTheme"/>
+    <style name="ButtonAppTheme" parent="android:Widget.Holo.Light.Button">
+        <item name="android:background">@drawable/apptheme_btn_default_holo_light</item>
+    </style>
+    <style name="DropDownListView.Photochat" parent="@android:style/Widget.Holo.Light.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_photochat</item>
+    </style>
+    <style name="DropDownNav.Photochat" parent="@android:style/Widget.Holo.Light.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_photochat</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_photochat</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_photochat</item>
+    </style>
+    <style name="GridImage">
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+    </style>
+    <style name="ImageButtonAppTheme" parent="android:Widget.Holo.Light.ImageButton">
+        <item name="android:background">@drawable/apptheme_btn_default_holo_light</item>
+    </style>
+    <style name="PopupMenu.Photochat" parent="@android:style/Widget.Holo.Light.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_photochat</item>
+    </style>
+    <style name="ProgressBar.Photochat" parent="@android:style/Widget.Holo.Light.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_photochat</item>
+    </style>
+    <style name="Theme.Photochat" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_photochat</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Photochat</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Photochat</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Photochat</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Photochat</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Photochat</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_photochat</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_photochat</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Photochat</item>
+        <item name="android:editTextBackground">@drawable/apptheme_edit_text_holo_light</item>
+        <item name="android:actionOverflowButtonStyle">@style/Theme.Photochat.Overflow</item>
+        <item name="android:listViewStyle">@style/Theme.Photochat.LightBlueBackground</item>
+        <item name="android:gridViewStyle">@style/Theme.Photochat.LightBlueBackground.GridView</item>
+    </style>
+    <style name="Theme.Photochat.ActionBar.Text" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/actionBarText</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="Theme.Photochat.LightBlueBackground">
+        <item name="android:background">@color/lightBlueBackground</item>
+    </style>
+    <style name="Theme.Photochat.LightBlueBackground.GridView">
+        <item name="android:padding">8dp</item>
+    </style>
+    <style name="Theme.Photochat.Overflow" parent="@android:style/Widget.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_action_ic_menu_overflow</item>
+    </style>
+    <style name="Theme.Photochat.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Photochat</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Photochat</item>
+    </style>
+    <style name="_AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:editTextBackground">@drawable/apptheme_edit_text_holo_light</item>
+        <item name="android:buttonStyle">@style/ButtonAppTheme</item>
+        <item name="android:imageButtonStyle">@style/ImageButtonAppTheme</item>
+    </style>
+</resources>

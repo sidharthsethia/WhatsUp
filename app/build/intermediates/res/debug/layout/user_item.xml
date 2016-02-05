@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white" >
+
+    <ImageView
+        android:id="@+id/emptyUserIcon"
+        style="@style/GridImage"
+        android:src="@drawable/friendicon" />
+
+    <ImageView
+        android:id="@+id/selectedUserIcon"
+        style="@style/GridImage"
+        android:src="@drawable/avatarselected"
+        android:visibility="invisible"
+        android:layout_centerInParent="true"
+        android:layout_height="90dp"
+        android:layout_width="90dp" />
+
+    <TextView
+        android:id="@+id/userId"
+        android:layout_width="wrap_content"
+        android:layout_height="44dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/emptyUserIcon"
+        android:maxLines="2"
+        android:padding="4dp" />
+
+</RelativeLayout><!-- From: file:/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/src/main/res/layout/user_item.xml -->

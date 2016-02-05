@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="apptheme_color">#186cf4</color>
+    <color name="pressed_color">#7a7b7c</color>
+    <color name="hovered_color">#7a7b7c</color>
+    <color name="defaultbutton">#a2a4a5</color>
+    <color name="actionBarText">#ffffff</color>
+    <color name="lightBlueBackground">#cbeaf4</color>
+    <color name="swipe1">#0000CC</color>
+    <color name="swipe2">#0033CC</color>
+    <color name="swipe3">#0066CC</color>
+    <color name="swipe4">#0099FF</color>
+
+</resources>

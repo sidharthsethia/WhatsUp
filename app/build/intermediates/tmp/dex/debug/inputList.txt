@@ -1,0 +1,6 @@
+/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/build/intermediates/classes/debug
+/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-27855b3a433b6af3661b3642fbc6eb63bf081f22.jar
+/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/build/intermediates/pre-dexed/debug/commons-io-2.4-d2d26505326259b4ac65ba76937efcfdc0404342.jar
+/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/build/intermediates/pre-dexed/debug/jsoup-1.7.3-e6a695e48d344f19db1a2ed9c0ad862e82734b34.jar
+/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-8701d9ddbb39da0b586b12d61cc9557e5229d75b.jar
+/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/build/intermediates/pre-dexed/debug/Parse-1.6.0-2fdd17ad5a2a09f69d71351ccd61457daff2194c.jar

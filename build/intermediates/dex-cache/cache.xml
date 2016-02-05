@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/libs/jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da">
+        <dex dex="/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/build/intermediates/pre-dexed/debug/jsoup-1.7.3-e6a695e48d344f19db1a2ed9c0ad862e82734b34.jar" />
+    </item>
+    <item
+        jar="/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/libs/Parse-1.6.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a812174191af5a4513a873602a765b0171f252c">
+        <dex dex="/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/build/intermediates/pre-dexed/debug/Parse-1.6.0-2fdd17ad5a2a09f69d71351ccd61457daff2194c.jar" />
+    </item>
+    <item
+        jar="/Users/Sidharth/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-27855b3a433b6af3661b3642fbc6eb63bf081f22.jar" />
+    </item>
+    <item
+        jar="/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/build/intermediates/pre-dexed/debug/commons-io-2.4-d2d26505326259b4ac65ba76937efcfdc0404342.jar" />
+    </item>
+    <item
+        jar="/Users/Sidharth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/Sidharth/AndroidStudioProjects/WhatsUp/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-8701d9ddbb39da0b586b12d61cc9557e5229d75b.jar" />
+    </item>
+
+</items>

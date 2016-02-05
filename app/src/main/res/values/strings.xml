@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhatsUp</string>
+    <string name="title_section1">Inbox</string>
+    <string name="title_section2">Friends</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="username_string">Username</string>
+    <string name="password_string">Password</string>
+    <string name="Login_label">Login</string>
+    <string name="signup_text">Sign Up!</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="email_hint">Email Id</string>
+    <string name="signup_error_message">Please enter a username,password and an email address!!</string>
+    <string name="Signup_error_title">Oops!!</string>
+    <string name="login_error_message">Please enter a username and a password!!</string>
+    <string name="login_error_title">Oops!!</string>
+    <string name="logout_label">Log Out</string>
+    <string name="inbox_empty_message">You have got no messages!!!</string>
+    <string name="friends_empty_message">You are alone...Go get some friends!!</string>
+    <string name="Edit_friends_Label">Edit Friends</string>
+    <string name="title_activity_edit_friends">Edit Friends</string>
+    <string name="error_title">Oops!!</string>
+    <string name="error_message">We\'re sorry!!</string>
+    <string name="camera_label">Camera</string>
+    <string-array name="camera_choices">
+        <item >Take Photo</item>
+        <item >Take Video</item>
+        <item >Choose Photo</item>
+        <item >Choose Video</item>
+    </string-array>
+    <string name="external_storage_error">There was a problem accessing your device\'s external storage</string>
+
+    <string name="send_button">"Send "</string>
+    <string name="push_message">You have a new message from %s!</string>
+
+</resources>
